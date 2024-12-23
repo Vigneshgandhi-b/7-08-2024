@@ -1,0 +1,84 @@
+.Navbar{
+    width: 100% !important;
+    height: 70px;
+    margin: 0px !important;
+    font-family: Graphie;
+    color: #FFFFFF;
+    background-color: #284659;
+    padding: 0px !important;
+    border-radius: 0px;
+}
+
+.NavSec{
+    padding-right: 0px !important;
+    padding-top: 10px !important;
+    margin-left: 30%;
+}
+
+.NavSec2{
+    padding-right: 0px !important;
+    padding-top: 42px !important;
+    margin-left: 0px;
+}
+.Navbarlogo{
+    margin-left: 100px;
+    /* margin-top: 10%; */
+}
+
+.headtext{
+    margin-top: 10% !important;
+}
+
+.Navbar-header{
+    display: inline-flex;
+}
+
+
+.Navbar-body .Navbar-list{
+    margin-top: -23px !important;
+    padding-bottom: 20px;
+}
+.Navbar-list{
+    list-style-type: none;
+    margin-left: 25% !important;
+    display: flex;
+}
+.Navbar-list .Navbarchildren{
+    margin-top: -10px !important;
+    padding-right: 20px;    
+}
+
+.Navbar-footer,#Call,.Foot{
+    margin-right: 10% !important;
+    margin-top: -65px !important;
+    text-align: end;
+}
+.Foot1{
+    color: #F2D49B;
+    margin-top: -1% !important;
+    margin-right: 6.5% !important;
+    /* margin-left: 65% !important; */
+}
+.Body{
+    margin: 0px !important;
+}
+
+.headtext{
+    font-family: Graphie;
+    font-size: 25px;
+    margin: 0px !important;
+    /* padding-left: 23%; */
+    margin-top: -43px !important;
+    /* margin-bottom: 30px; */
+    padding-top: 10px;
+    color: #FFFFFF;
+}
+
+.Subheadtext{
+    color: #FFFFFF;
+    font-family: Graphie;
+    /* padding-left: 23%; */
+    margin: 0px !important;
+    width: 120%;
+    font-size: 8px;
+}

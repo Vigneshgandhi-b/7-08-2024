@@ -1,0 +1,245 @@
+.boxback{
+    width: 100%;
+    height: 350px;
+    background-color: #284659;
+    margin-top: -75px;
+}
+
+.leftSider{
+    width: 35%;
+    margin-left: 10%;
+    padding-top: 8%;
+}
+.Our_partner{
+    color: #E0A149;
+}
+.Collab{
+    color: #FFFFFF;
+    font-family: Graphie;
+}
+.lorem4{
+    font-family: Graphie;
+    color: #FFFFFF;
+    width: 60%;
+}
+.rightSider{
+    margin-left: 45%;
+    margin-top: -12%;
+}
+
+.logo{
+    margin-right: 20%;
+}
+
+#Our_Blog{
+    margin-top: 6%;
+}
+.Stage1{
+    color: #696969;
+}
+
+.cards{
+    margin-top: 1%;
+    display: inline-flex;
+    margin-left: 14%;
+}
+
+.box1card{
+    width: 350px;
+    height: 450px;
+    background-color: #284659;
+    border-radius: 20px;
+    text-align: center;
+    text-indent: left;
+    color: #FFFFFF;
+    margin-right: 25px;
+}
+.Date{
+    font-family: Graphie !important;
+    /* margin-top: -12px; */
+    /* margin-left: -135px; */
+    font-size: 12px;
+    color: #F2d49B;
+    text-align: left !important;
+    margin-bottom: 0px;
+}
+
+.Mental-Health{
+    font-family: 16px;
+    margin-top: 10px;
+    text-align: left;
+    margin-left: 15px;
+    margin-bottom: 0px;
+}
+.secBlog{
+    display: ruby;
+    margin-bottom: 2px;
+    margin-left: -156px;
+    margin-top: -6px;
+    /* text-align: left; */
+}
+
+.card{
+    border-bottom-left-radius: 0px !important;
+    border-bottom-right-radius: 0px !important;
+}
+.loremblog{
+    width: 90%;
+    margin-left: 5%;
+    font-size: 14px;
+    font-family: Graphie;
+    margin-top: 3px;
+    margin-bottom: 5px;
+    text-align: left;
+    height: 100px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+.blogRead{
+    text-decoration: none;
+    font-family: Graphie;
+    color: #F2d49B;
+    font-size: 14px;
+    margin-left: -66%;
+}
+
+.viewBlog{
+    margin-top: 3%;
+    border-radius: 10px;
+    border-top-right-radius: 0px;
+    align-items: center;
+    border: none;
+    background-color: #E0A149;
+    color: #FFFFFF;
+    font-family: Graphie;
+    font-size: medium;
+    padding: 10px;
+    margin-left: 45%;
+    margin-bottom: 6%;
+}
+
+.lorem_footer{
+    margin-top: 30px;
+}
+
+#Footer{
+    width: 100%;
+    height: 420px;
+    background-color: #284659;
+}
+
+.subtextFoot{
+    font-size: 15px;
+    margin-left: 65px;
+    margin-top: -60px;
+}
+
+.headtext-foot{
+    font-family: Graphie;
+    font-size: 25px;
+    margin: 0px !important;
+    padding-left: 23%;
+    margin-top: -48px !important;
+    /* margin-bottom: 30px; */
+    padding-top: 10px;
+    color: #FFFFFF;
+}
+
+.Subheadtext-foot{
+    color: #FFFFFF;
+    font-family: Graphie;
+    padding-left: 23%;
+    margin: 0px !important;
+    font-size: 8px;
+}
+
+.foot-section1 .middle{
+    /* width: 25%; */
+    font-family: Graphie;
+    color: #FFFFFF;
+    margin-left: 15%;
+}
+
+.foot-section1 .icons{
+    margin-left: 15%;
+}
+
+.icons1{
+    padding-right: 10px;
+}
+
+#FM-1{
+    display: inline-flex;
+}
+
+.foot-section1{
+    width: 30%;
+    margin-left: 5%;
+}
+
+.foot-section2,.foot-section3,.foot-section4{
+    /* display: grid; */
+    width: 17%;
+    font-size: 15px;
+    margin-left: 1%;
+}
+
+.foot-section2{
+    margin-left: 100px;
+}
+
+#Footer h3{
+    font-family: Graphie;
+    color: #FFFFFF;
+}
+
+.LinkFoot{
+    display: block;
+    text-decoration: none;
+    font-family: Graphie;
+    color: #FFFFFF;
+    /* padding-bottom: 25px; */
+}
+
+.foot-section1 .top{
+    margin-top: 10px;
+}
+
+.foot-section3{
+    margin-left: -3%;
+}
+
+.foot-section4{
+    /* width: 100%; */
+    margin-left: -3%;
+}
+
+.LinkFoot{
+    margin-top: 10px !important;
+}
+
+.logofooter{
+    position: relative;
+    padding-left: 15%;
+}
+
+.foot-section1,.foot-section2,.foot-section3,.foot-section4{
+    margin-top: 5%;
+}
+
+.footline{
+    width: 80%;
+    height: 3px;
+    background-color: #E0A149;
+    border-radius: 3px;
+    margin-top: -55px;
+    margin-left: 10%;
+    /* margin-bottom: 50px; */
+}
+
+.copyright_reserved{
+    font-family: Graphie;
+    padding: 10px !important;
+    color: #FFFFFF;
+    text-align: center;
+}

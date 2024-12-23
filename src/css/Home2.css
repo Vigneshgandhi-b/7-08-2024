@@ -1,0 +1,238 @@
+
+@font-face {
+    font-family: Graphie;
+    src: url(/fonts/Graphie/fonts/fonnts.com-Graphie.otf);
+}
+
+.Message_info{
+    font-family: Graphie;
+    margin-top: -20px;
+    margin-bottom: 6px;
+    font-weight: bold;
+    position: relative;
+}
+
+#file{
+    width: 600px;
+    height: 6px;
+    background-color: #E0A146;
+    border-radius: 3px;
+    margin-top: -130px;
+}
+#file::-webkit-progress-bar {
+    background-color: #284869;
+    border-radius: 3px;
+}
+
+#file::-webkit-progress-value {
+    background-color: #E0A146;
+    border-radius: 3px;
+}
+.infor,.infor2,.infor3{
+    margin-top: 30px;
+    font-family: Graphie;
+    width: 600px;
+    height: 30px;
+    margin-bottom: 40px;
+}
+.image-5{
+    background: url('/handstogether.jpg') rgba(40,70,89,0.5);
+    background-size: 100% 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-blend-mode: darken;
+    /* position: fixed; */
+}
+.AnxietyMessage{
+    font-family: Graphie;
+    width: 50%;
+    margin-left: 25%;
+    padding-top: 4%;
+    font-size: 40px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.AnxMess2{
+    font-family: Graphie;
+    width: 50%;
+    font-size: 17px;
+    color: #FFFFFF;
+    margin-left: 25%;
+    margin-top: -1%;
+}
+.spanAnx{
+    color: #E0A146;
+}
+.buttonAnx{
+    font-size: 15px;
+    background-color: #E0A146;
+    color: #FFFFFF;
+    border: none;
+    border-radius: 20px;
+    border-top-right-radius: 0px;
+    font-family: Graphie;
+    margin-top: 1%;
+    margin-left: 650px;
+    padding: 15px;
+}
+#our_stages{
+    margin-top: 120px;
+}
+
+.OurStages{
+    margin-left: 46%;
+    color: #E0A146;
+}
+
+.BAP{
+    font-family: Graphie;
+    text-align: center;
+    /* font-weight: ; */
+}
+
+.Stage1{
+    font-family: Graphie;
+    font-size: 14px;
+    width: 50%;
+    margin-left: 25%;
+}
+
+.ImagesPsych{
+    margin-top: 30px;
+    display: inline-flex;
+    margin-left: 23%;
+}
+/* padding-right: 20%; */
+.consultation{
+    padding-right: 75%;
+}
+
+.psychtext1,.psychtext2,.psychtext3,.psychtext4{
+    font-family: Graphie;
+}
+
+.psychtext1{
+    margin-left: 290px;
+    margin-top: -6px;
+}
+
+.psychtext2{
+    margin-left: 580px;
+    margin-top: -40px;
+}
+
+.psychtext3{
+    margin-left: 810px;
+    margin-top: -40px;
+}
+.psychtext4{
+    margin-left: 1100px;
+    margin-top: -40px;
+}
+.ContainerBox{
+    width: 80vw;
+    height: 590px;
+    background-color: #FFFFFF;
+    box-sizing: border-box;
+    outline: 1px solid #b9b8b8;
+    /* box-shadow: 1px solid #0000009a; */
+    margin-left: 10%;
+    margin-top: 7%;
+    border-radius: 30px;
+}
+.ContainerBox{
+    display: inline-flex;
+}
+.leftCont{
+    width: 100%;
+    padding-top: 10%;
+}
+#Name,#Email,#Phone,#SplitInput,#button{
+    font-family: Graphie;
+    margin-left: 20%;
+    /* margin-top: ; */
+}
+.inputboxtext{
+    width: 380px;
+    height: 32px;
+    margin-top: 1px;
+    border: 1px solid #b9b8b8;
+    color: #b9b8b8;
+    padding-left: 5px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+}
+#SplitInput{
+    display: inline-flex;
+    /* padding-right: 2%; */
+}
+section{
+    padding-right: 22px;
+}
+
+
+input::placeholder{
+    color: #464242;
+}
+.splitboxtext{
+    width: 175px;
+    height: 32px;
+    margin-top: 1px;
+    padding-left: 5px;
+    padding-right: 5px;
+    border-radius: 10px;
+    border: 1px solid #b9b8b8;
+}
+.Appointbtn{
+    margin-top: 30px;
+    background-color: #E0A146;
+    color: #FFFFFF;
+    border: none;
+    font-size: 16px;
+    font-family: Graphie;
+    border-radius: 13px;
+    border-top-right-radius: 0px;
+    cursor: pointer;
+    padding: 13px;
+}
+.rightCont{
+    padding-top: 8%;
+    width: 100%;
+}
+.Appoint{
+    color: #E0A146;
+}
+.MakeAppoint{
+    font-family: Graphie;
+    margin-top: -12px;
+}
+.lorem1{
+    margin-top: -12px;
+    font-family: Graphie;
+    font-size: 14px;
+    color: #6c6b6b;
+    width: 80%;
+}
+.CustomerServices,.CustomerServices2,.CustomerServices3{
+    display: flex;
+    font-family: Graphie;
+}
+.CustomerServices2{
+    margin-top: -36px;
+}
+.CustomerServices3{
+    margin-top: -25px;
+}
+.CustomerServices3 .cs{
+    /* margin-top: -10px; */
+    margin-top: -1px;
+}
+.cs{
+    font-weight: bold;
+}
+
+.cs1,.cs2{
+    margin-top: -15px;
+    color: #6c6b6b;
+}
+

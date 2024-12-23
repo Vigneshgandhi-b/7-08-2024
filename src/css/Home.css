@@ -1,0 +1,526 @@
+#Homeimage{
+    background: url("/ProductSchool.jpg") rgba(40,70,89,0.7);
+    background-size:100% 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-blend-mode: darken;
+}
+.welcome_message{
+    font-family: Graphie;
+    text-align: center;
+    color: #FFFFFF;
+    margin-top: -35%;
+    font-size: 25px;
+}
+.welcome_message2{
+    font-family: Graphie;
+    color: #FFFFFF;
+    margin-top: -5px;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 50px;
+}
+.peace{
+    color: #E0A146;
+}
+#buttongroup-1{
+    display: inline-block;
+    font-family: Graphie;
+    margin-left: 38%;
+    margin-bottom: 60px;
+    /* color: #FFFFFF; */
+}
+.button{
+    background-color: #E0A146;
+    font-family: Graphie;
+    border-radius: 10px;
+    border-top-right-radius: 0px;
+    outline: none;
+}
+.button1{
+    font-family: Graphie;
+    background-color: rgba(255, 255, 255, 0);
+    outline: 1px solid #E0A146;
+    border-radius: 10px;
+}
+.button1,.button{
+    margin-right: 15px;
+    color: #FFFFFF;
+    font-size: 20px;
+    border: none;
+    cursor: pointer;
+    box-shadow: none;
+    padding: 20px;
+}
+
+.message{
+    font-family: Graphie;
+    margin-top: -20px;
+    color: #FFFFFF;
+    text-align: center;
+    padding-bottom: 1%;
+
+}
+
+.boxes{
+    display: inline-flex;
+    /* margin-top: 0%; */
+    margin-left: 14%;
+    margin-bottom: 6%;
+}
+.box1{
+    margin-right: 25px;
+    background-color: #E0A146;
+    color: #FFFFFF;
+    text-align: center;
+    border-radius: 20px;
+    border-top-right-radius: 0px;
+}
+.imageicons{
+    margin-top: 20px;
+}
+.boxmessage,.boxmessage-2,.boxmessage-3{
+    /* margin-top: 85px; */
+    font-family: Graphie;
+    font-weight: bold;
+}
+.boxmessage-c,.boxmessage-c2,.boxmessage-c3{
+    /* margin-top: 65px; */
+    width: 80%;
+    margin-left: 10%;
+    font-family: Graphie;
+    font-size: 14px;
+}
+.box1,.box2,.box3{
+    width: 350px;
+    height: 250px;
+}
+
+.box2{
+    margin-right: 25px;
+    text-align: center;
+    background-color: #284659;
+    color: #FFFFFF;
+    border-radius: 20px;
+    /* border-top-left-radius: 0px; */
+}
+.box3{
+    text-align: center;
+    background-color: #284659;
+    color: #FFFFFF;
+    border-radius: 20px;
+    border-bottom-left-radius: 0px;
+}
+.h6About{
+    color: #E0A146;
+    font-size: 16px;
+    font-family: serif;
+    /* font-style: italic; */
+}
+.WeAreHere{
+    font-family: sans-serif;
+    font-size: 30px !important;
+    margin-top: -1%;
+    /* margin-left: 14%; */
+}
+.About{
+    margin-left: 14%;
+    font-weight: bold;
+}
+.MessageWere{
+    text-align: left;
+    width: 45% !important;
+    font-size: 14px;
+    /* font-styl; */
+    font-family: Graphie;
+    color: #727272;
+    font-weight: normal;
+    /* font-style: normal; */
+    margin-top: -1%;
+    margin-bottom: 1%;
+}
+
+.boxshadowback{
+    width: 420px;
+    height: 400px;
+    margin-left: 50%;
+    margin-top: -30%;
+    border-radius: 30px;
+    background-color: #284659;
+    position: relative;
+}
+.psycology_image{
+    width: 425px;
+    height: 400px;
+    border-radius: 30px;
+    outline: 5px solid #FFFFFF;
+    border-top-right-radius: 0px;
+    margin-left: 7%;
+    margin-top: -8%;
+}
+.psycology_image2{
+    width: 196px;
+    height: 148px;
+    border-radius: 32px;
+    outline: 5px solid #FFFFFF;
+    border-bottom-left-radius: 0px;
+    margin-left: -5%;
+    margin-top: -12%;
+}
+
+.experticon{
+    width: 64px;
+    height: 64px;
+    margin-top: 2%;
+}
+.experticon-2{
+    width: 64px;
+    height: 64px;
+    margin-top: 1% !important;
+    /* margin-top: -26%; */
+    /* margin-left: 85%; */
+}
+.head1text{
+    margin-top: -21%;
+    margin-left: 65px;
+    /* width: 20%; */
+}
+.head2text{
+    /* width: 15%; */
+    margin-top: -20%;
+    margin-left: 65px;
+}
+.quotes{
+    font-family: Graphie;
+    color: #E0A146;
+    font-size: 12px;
+    margin-left: 70px;
+    /* width: 20%; */
+    margin-top: 0px !important;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+.quotes-2{
+    font-family: Graphie;
+    color: #E0A146 !important;
+    font-size: 12px;
+    margin-left: 70px;
+    margin-top: 0px !important;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+    /* width: 22%; */
+}
+.More-About{
+    background-color: #E0A146;
+    color: #FFFFFF;
+    border: none;
+    font-size: 20px;
+    padding: 15px;
+    font-family: Graphie;
+    margin-top: 1%;
+    margin-left: 14%;
+    /* margin-top: -60px !important; */
+    border-radius: 10px;
+    border-top-right-radius: 0px;
+    margin-bottom: 5%;
+}
+.backgroundshadow{
+    width: 650px;
+    height: 100px;
+    border-top-left-radius: 30px;
+    /* outline: 5px solid #FFFFFF; */
+    background-color: #E0A146;
+    /* margin-left: %; */
+    margin-top: 1%;   
+}
+.dialogbox{
+    width: 650px;
+    height: 100px;
+    border-top-left-radius: 30px;
+    /* outline: 5px solid #FFFFFF; */
+    background-color: #FFFFFF;
+    text-align: center;
+    margin-top: 16px;
+    margin-left: 1%;
+    margin-top: 2%;
+}
+.psycology_message{
+    padding-top: 25px;
+    font-style: normal;
+    font-size: 14px;
+    margin-left: -120px !important;
+    /* font-family: sans-serif; */
+    /* font-size: 12px; */
+}
+.Icon1expert{
+    width: 25%;
+}
+.Icon2expert{
+    width: 25% !important;
+    margin-left: 25%;
+    margin-top: -5%;
+}
+.image-3{
+    background: url("/psy1.jpg") rgba(40,70,89,0.7);
+    background-size:100% 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-blend-mode: darken;
+    width: 100%;
+    height: 500px !important;
+}
+.centre{
+    margin-top: 100px;
+    width: 100%;
+    /* padding-left: 25%; */
+}
+.excellence{
+    display: inline-flex;
+    width: 100%;
+    height: 10%;
+    /* margin-left: 15%; */
+}
+.excellence .icon{
+    padding: 20vh 10vw 0vh 10vw;
+}
+
+.text1,.text2,.text3,.text4{
+    font-size: 30px;
+    font-family: sans-serif;
+    color: #FFFFFF;
+}
+.text1{
+    margin-top: 10px;
+    margin-left: 160px;
+}
+.text2{
+    margin-top: -65px;
+    margin-left: 530px;
+}
+.text3{
+    margin-top: -65px;
+    margin-left: 910px;
+}
+.text4{
+    margin-top: -65px;
+    margin-left: 1270px;
+}
+.subtext1,.subtext2,.subtext3,.subtext4{
+    color: #FFFFFF;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+.subtext1{
+    margin-top: -25px;
+    margin-left: 120px;
+}
+.subtext2{
+    margin-top: -43px;
+    margin-left: 510px;
+}
+.subtext3{
+    margin-top: -43px;
+    margin-left: 870px;
+}
+.subtext4{
+    margin-top: -43px;
+    margin-left: 1255px;
+}
+.text1 {
+    position: relative;
+    /* font-size: 24px;  */
+    font-weight: bold;
+}
+.spantext {
+    position: relative;
+    top: -14px; /* Adjust to move "th" vertically */
+    right: 0px; /* Adjust to move "th" horizontally */
+    font-size: 16px;
+    font-weight: bold; /* Smaller font for "th" */
+    color: white; /* Optional: lighter color for the superscript */
+}
+
+
+.psycology{
+    display: inline-flex;
+    margin-left: 17%;
+    width: 35%;
+    height: 15%;
+    font-size: 20px !important;
+    font-weight: normal;
+    margin-top: 0px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+.psycology .textachievements{
+    margin-right: 18vw !important;
+    text-align: center;
+}
+.spantext{
+    height: auto;
+    font-size: 13px;
+    margin-top: -26px;
+}
+.firstcontainer{
+    width: 80vw;
+    height: 850px;
+    background-color: #FFFFFF;
+    box-sizing: border-box;
+    /* box-shadow: 1px solid #000; */
+    /* border-radius: 1px solid #080808; */
+    text-align: center;
+    margin-left: 10%;
+    outline: 1px solid #878686b0;
+    /* box-shadow: #000; */
+    margin-top: -7%;
+    border-radius: 30px;
+}
+.firstcontainer > h3{
+    padding-top: 5%;
+    color: #E0A146;
+}
+.boxes-container,.boxes-container2{
+    display: inline-flex;
+    margin-top: 2%;
+}
+
+.box1-cd{
+    margin-right: 2%;
+    width: 350px;
+    height: 250px;
+    background-color: #FFFFFF;
+    box-sizing: content-box;
+    outline: 2px solid rgb(40, 70, 89);
+    margin-left: 2%;
+}
+.box2-cd,.box3-cd{
+    margin-left: 2%;
+    margin-right: 2%;
+    width: 350px;
+    height: 250px;
+    background-color: #FFFFFF;
+    box-sizing: content-box;
+    outline: 2px solid #E0A146;
+    /* margin-bottom: 2%;   */
+    /* padding-bottom: 30px; */
+}
+.boxes-container2 .box1-cd{
+    outline: 2px solid #E0A146 !important;   
+}
+.box1-cd,.box2-cd,.box3-cd{
+    border-radius: 20px;
+}
+.box1-cd{
+    border-top-right-radius: 0px;
+}
+.box3-cd{
+    border-bottom-left-radius: 0px;
+}
+.individualicon{
+    margin-top: 42px;
+    margin-bottom: 10px;
+}
+.individual{
+    margin-top: -10px;
+    font-family: Graphie;
+}
+.description_ind{
+    width: 18vw;
+    margin-left: 20px;
+    color: #6a6a6a;
+    text-align: left;
+    font-family: Graphie;
+    margin-top: -10px;
+    font-size: 16px;
+}
+.readmoretext1{
+    text-decoration: none;
+    padding-right: 15px;
+    color: #f2d49b;
+    font-weight: bold;
+    font-family: Graphie;
+}
+.readmoretext{
+    text-decoration: none;
+    padding-right: 15px;
+    font-weight: bold;
+    color: #000;
+    font-family: Graphie;
+}
+.readmoretext .fa-arrow-right,.readmoretext1 .fa-arrow-right{
+    margin-left: 5px !important;
+}
+
+blockquote{
+    font-family: Graphie;
+    font-weight: 100;
+}
+
+.boxshadowback2{
+    width: 450px;
+    height: 425px;
+    margin-left: 13%;
+    margin-top: 10%;
+    border-radius: 30px;
+    background-color: #284659;
+    position: relative;
+}
+.psycology_image3{
+    width: 450px;
+    height: 425px;
+    border-radius: 30px;
+    outline: 5px solid #FFFFFF;
+    border-top-left-radius: 0px;
+    margin-left: -7%;
+    margin-top: -8%;
+}
+.psycology_image4{
+    width: 150px;
+    height: 100px;
+    border-radius: 15px;
+    outline: 5px solid #FFFFFF;
+    border-bottom-right-radius: 0px;
+    margin-left: 73%;
+    margin-top: -12%;
+}
+
+.why_choose_genical{
+    width: 650px;
+    height: 500px;
+    margin-left: 720px;
+    margin-top: -31%;
+}
+.Whychose{
+    color: #E0A146;
+}
+.TCOYH{
+    font-family: Graphie;
+    font-weight: 800;
+}
+
+.YHIAE{
+    font-family: Graphie;
+}
+
+
+
+.Happiness,.Happiness_message{
+    font-family: Graphie;
+    color: #6a6a6a;
+}
+.ul-vision1{
+    color: #6a6a6a;
+    font-family: Graphie;
+    margin-left: -15px;
+    margin-top: -15px;
+}
+.vision-list1,.vision-list2{
+    width: 300px;
+    height: 135px;
+}
+#Vision_and_Message{
+    display: inline-flex;
+    font-family: Graphie;
+    margin-top: -30px;
+}
